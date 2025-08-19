@@ -1,6 +1,6 @@
 # mitm-proxy
 
-A lightweight, file-based HTTP/HTTPS man-in-the-middle proxy and logger written in Go.
+A lightweight HTTP/HTTPS man-in-the-middle proxy and logger written in Go.
 
 It generates TLS certificates on the fly to intercept encrypted traffic and logs all requests and responses to a local SQLite database for inspection.
 
